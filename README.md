@@ -4,7 +4,7 @@
 
 I'm a digital creator passionate about building digital solutions, helping businesses establish their online presence, and using technology to solve problems.
 
-Through **Big M Digitals**, I focus on web design and digital solutions while expanding my expertise in data analytics and digital marketing.
+ I focus on web design and digital solutions while expanding my expertise in data analytics and digital marketing.
 
  About Me
 
