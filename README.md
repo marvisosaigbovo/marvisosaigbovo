@@ -16,7 +16,7 @@ I'm a digital creator passionate about building digital solutions, helping busin
 
  Skills & Tools
 
-Web Design: WordPress, HTML, CSS
+Web Design: WordPress, HTML, CSS,
 Data Analytics: Microsoft Excel, Power Query, Power BI
 Digital Marketing: Digital advertising, Facebook Ads, marketing performance analysis
 Tools:GitHub, VS Code, Acode
